@@ -13,7 +13,8 @@
 
 This paper develops a game-theoretic model of regulatory competition between the United States and the European Union in the governance of frontier, self-improving technologies. We characterize a two-jurisdiction game in which policymakers choose between permissive and strict regulatory strategies under conditions of perfect capital mobility and asymmetric innovation rents. We demonstrate that this structure generates a Nash equilibrium characterized by regulatory convergence toward permissiveness, even when mutual strict regulation yields superior social welfare under high systemic risk. The model embeds contemporary AI governance within the regulatory competition literature, extending classical race-to-the-bottom frameworks to accommodate global externalities and potentially irreversible technological risks. Our results suggest that governance mechanisms designed for earlier technological cycles—where harm is localized, reversible, and subject to ex-post correction—may prove inadequate for technologies exhibiting recursive self-improvement and non-local catastrophic risk. We derive testable empirical predictions and discuss conditions under which cooperative equilibria might be sustained through repeated interaction or institutional commitment devices.
 
-*Keywords*: AI governance, coordination failure, race to the bottom, technology policy, regulatory competition, AI Economics
+*Keywords*: AI governance, coordination failure, race to the bottom, technology policy, regulatory competition, AI Economics.
+
 *JEL Classification*: F55, K20, L51, O38
 
 *Suggested Citation:*
