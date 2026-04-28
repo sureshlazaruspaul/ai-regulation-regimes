@@ -50,4 +50,4 @@ This work and the associated "Paulian Framework" are licensed under a Creative C
 
 ***
 
-Note: Preliminary--do not cite. This essay is a part of the book chapter titled Regulation Regimes and Artificial Intelligence, in the book--The Economics of AI. Interested readers may contact the corresponding author for a distributable copy of the essay at spaul@bw.edu.
+Note: This essay is a part of the book chapter titled Regulation Regimes and Artificial Intelligence, in the book--The Economics of AI. Interested readers may contact the corresponding author for a distributable copy of the essay at spaul@bw.edu.
