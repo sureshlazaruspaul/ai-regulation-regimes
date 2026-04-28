@@ -34,7 +34,7 @@ This paper develops a game-theoretic model of regulatory competition between the
 
 *Suggested Citation:*
 
-Paul, Suresh and Sahni, Herman, AI Regulation Regimes and Competitive Outcomes: A Game-Theoretic Analysis of Regulatory Competition in Frontier Technologies (April 12, 2026). Available at SSRN: https://ssrn.com/abstract=6562379.
+Paul, Suresh L. and Sahni, Herman, AI Regulation Regimes and Competitive Outcomes: A Game-Theoretic Analysis of Regulatory Competition in Frontier Technologies (April 12, 2026). Available at SSRN: https://ssrn.com/abstract=6562379.
 
 ***
 
